@@ -21,3 +21,7 @@ My first Python project. A terminal based chess tournament maneger.
 - Better tournament formats
 
 Created by Sarthak Dubey.
+
+## CONNECT
+
+- INSTA: https://www.instagram.com/sarthakdubey006/
